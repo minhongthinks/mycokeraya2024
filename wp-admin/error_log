@@ -1,0 +1,20 @@
+[27-Feb-2024 02:22:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/rayamy2024.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/rayamy2024.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/rayamy2024.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/rayamy2024.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[27-Feb-2024 02:22:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /home3/lavishsi/rayamy2024.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:272
+Stack trace:
+#0 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/class-wp-hook.php(324): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/lavishsi/rayamy2024.lavish-site.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home3/lavishsi/rayamy2024.lavish-site.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /home3/lavishsi/rayamy2024.lavish-site.com/wp-admin/admin.php(239): require_once('/home3/lavishsi...')
+#5 {main}
+  thrown in /home3/lavishsi/rayamy2024.lavish-site.com/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 272
+[27-Feb-2024 04:27:48 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/lavishsi/rayamy2024.lavish-site.com/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/fonts-manager.php on line 252
+[04-Mar-2024 06:50:49 UTC] PHP Warning:  unlink(/tmp/classic-editor.1.6.3.zip): No such file or directory in /home3/lavishsi/rayamy2024.lavish-site.com/wp-admin/includes/class-wp-upgrader.php on line 386

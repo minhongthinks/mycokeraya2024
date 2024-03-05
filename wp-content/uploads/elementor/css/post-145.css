@@ -1,0 +1,62 @@
+.elementor-145 .elementor-element.elementor-element-d2d92bb{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--align-items:stretch;--background-transition:0.3s;--overlay-opacity:0.35;--padding-block-start:100px;--padding-block-end:100px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-145 .elementor-element.elementor-element-d2d92bb:not(.elementor-motion-effects-element-type-background), .elementor-145 .elementor-element.elementor-element-d2d92bb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-7afb182 );}.elementor-145 .elementor-element.elementor-element-d2d92bb::before, .elementor-145 .elementor-element.elementor-element-d2d92bb > .elementor-background-video-container::before, .elementor-145 .elementor-element.elementor-element-d2d92bb > .e-con-inner > .elementor-background-video-container::before, .elementor-145 .elementor-element.elementor-element-d2d92bb > .elementor-background-slideshow::before, .elementor-145 .elementor-element.elementor-element-d2d92bb > .e-con-inner > .elementor-background-slideshow::before, .elementor-145 .elementor-element.elementor-element-d2d92bb > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';background-image:url("https://rayamy2024.lavish-site.com/wp-content/uploads/2024/02/Raya-Corak-scaled.webp");background-repeat:repeat;background-size:60% auto;}.elementor-145 .elementor-element.elementor-element-d2d92bb, .elementor-145 .elementor-element.elementor-element-d2d92bb::before{--border-transition:0.3s;}.elementor-145 .elementor-element.elementor-element-c482839{text-align:center;}.elementor-145 .elementor-element.elementor-element-c482839 .elementor-heading-title{color:#000000;font-family:"Unity", Sans-serif;font-size:50px;font-weight:bold;text-transform:uppercase;}.elementor-145 .elementor-element.elementor-element-c482839 > .elementor-widget-container{margin:50px 0px 50px 0px;padding:0px 0px 0px 0px;}.elementor-145 .elementor-element.elementor-element-c22cb5c > .elementor-widget-container{padding:30px 30px 30px 30px;background-color:var( --e-global-color-text );border-radius:20px 20px 20px 20px;}.elementor-145 .elementor-element.elementor-element-c22cb5c.ha-has-bg-overlay > .elementor-widget-container:before{transition:background 0.3s;}@media(max-width:767px){.elementor-145 .elementor-element.elementor-element-d2d92bb{--padding-block-start:50px;--padding-block-end:50px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-145 .elementor-element.elementor-element-c482839 .elementor-heading-title{font-size:26px;}.elementor-145 .elementor-element.elementor-element-c482839 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-145 .elementor-element.elementor-element-c22cb5c > .elementor-widget-container{margin:15px 15px 15px 15px;}}@media(min-width:768px){.elementor-145 .elementor-element.elementor-element-d2d92bb{--content-width:1400px;}}/* Start custom CSS for shortcode, class: .elementor-element-c22cb5c */input#gform_next_button_2_17,  input#gform_next_button_2_16, input#gform_submit_button_2  {
+    border-style: none; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    background-color: #008B49;
+    color: white;
+    outline: none;
+    
+}
+
+  
+input#gform_next_button_2_17:hover, input#gform_previous_button_2_16:hover, input#gform_next_button_2_16:hover, input#gform_previous_button_2:hover,input#gform_submit_button_2:hover {
+    border-style: none; 
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+.ginput_container_consent label {
+  display: inline;
+  margin-right: 10px;
+} 
+
+body {
+    font-family: "Unity";
+    font-weight: 600 ;
+}
+
+a:link {
+  color: #008B49;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://rayamy2024.lavish-site.com/wp-content/uploads/2023/05/TCCC-UnityText-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://rayamy2024.lavish-site.com/wp-content/uploads/2023/05/TCCC-UnityCondensed-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://rayamy2024.lavish-site.com/wp-content/uploads/2023/05/TCCC-UnityHeadline-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Unity';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://rayamy2024.lavish-site.com/wp-content/uploads/2023/05/TCCC-UnityHeadline-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
